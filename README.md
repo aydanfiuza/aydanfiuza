@@ -1,4 +1,4 @@
-### Seja bem-vindo(a) ao meu perfil!
+### Seja bem-vindo(a) ao meu perfil! // Welcome to my profile!
 
  <div>
    <a href="https://github.com/aydanfiuza">
@@ -13,7 +13,7 @@
  
  <br>
  
-### Minhas redes
+### Minhas redes // My social medias
  
 <div> 
   <a href="https://instagram.com/richardaydan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
