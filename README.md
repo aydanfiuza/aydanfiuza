@@ -21,12 +21,10 @@
  <p>*Ainda estudando e aperfeiçoando a minha prática, e assumo não ter condições, atualmente, de criar um projeto do zero.<p>
 </div>
 
-<div style="margin: 0 auto">
+<div>
    <a href="https://github.com/aydanfiuza">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydanfiuza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydanfiuza&layout=compact&langs_count=6&theme=dracula"/>
-    
-   ![Snake animation](https://github.com/aydanfiuza/aydanfiuza/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 ### Contato
