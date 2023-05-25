@@ -22,9 +22,7 @@
 </div>
 
 <div>
-   <a href="https://github.com/aydanfiuza">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydanfiuza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydanfiuza&layout=compact&langs_count=6&theme=dracula"/>
+ ![Snake animation](https://github.com/aydanfiuza/aydanfiuza/blob/output/github-contribution-grid-snake.svg)
 </div>
  
 ### Contato
@@ -34,3 +32,7 @@
   <a href="https://twitter.com/richardaydan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:richardost4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<!-- <a href="https://github.com/aydanfiuza">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aydanfiuza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydanfiuza&layout=compact&langs_count=6&theme=dracula"/> -->
