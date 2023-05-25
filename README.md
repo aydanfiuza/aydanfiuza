@@ -10,7 +10,7 @@
  <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li>JavaScript</li>
+  <li style="color: yellow;">JavaScript</li>
   <li>ReactJS<strong>*</strong></li>
   <li>PHP<strong>*</strong></li>
   <li>Python</li>
