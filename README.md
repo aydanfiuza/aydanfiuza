@@ -12,7 +12,7 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>ReactJS<strong>*</strong></li>
-  <li>PHP<strong>*teste</strong></li>
+  <li>PHP<strong>*</strong></li>
   <li>Python</li>
   <li>Pandas Framework</li>
   <li>MongoDB (integração com Python)</li>
