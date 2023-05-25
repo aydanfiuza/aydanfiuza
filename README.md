@@ -1,4 +1,4 @@
-### Seja bem-vindo(a) ao meu perfil! // Welcome to my profile!
+### Seja bem-vindo(a) ao meu perfil!
 
 <div>
  <h1> 
@@ -29,7 +29,7 @@
  
 <br>
  
-### Contato // Contact
+### Contato
 
 <div> 
   <a href="https://instagram.com/richardaydan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
