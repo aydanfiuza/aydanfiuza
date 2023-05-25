@@ -1,12 +1,12 @@
-### Seja bem-vindo(a) ao meu perfil!
+### <h1>Seja bem-vindo(a) ao meu perfil!</h1>
 
 <div>
- <h1> 
+ <h2> 
   Sou aficionado por programação e pelo descobrimento de novas funcionalidades e tecnologias no dia-a-dia. Minha curiosidade é o pilar da minha produtividade.
- </h1>
- <h2>
-  Dentre as tecnologias que domino, ao menos de forma básica, estão:
  </h2>
+ <h3>
+  Dentre as tecnologias que domino, ao menos de forma básica, estão:
+ </h3>
  <ul>
   <li>HTML</li>
   <li>CSS</li>
